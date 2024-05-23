@@ -1,2 +1,2 @@
-# Data Exploration in SQL
- 
+# Covid Data Exploration in SQL
+This project is a comprehensive exploration of COVID-19 data using SQL. It focuses on analyzing two primary datasets: COVID Deaths and COVID Vaccinations. By leveraging SQL queries, the project aims to uncover insights into the pandemic's impact and the global response through vaccination efforts. The repository includes scripts for creating database tables, loading data, and performing detailed analyses. The goal is to facilitate a deeper understanding of COVID-19 trends and inform data-driven decisions.
